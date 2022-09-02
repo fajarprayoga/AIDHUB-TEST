@@ -1,0 +1,29 @@
+.page-login{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+/* section profile */
+.page-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.card-profile{
+    display: flex;
+    justify-content: center;
+}
